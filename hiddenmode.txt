@@ -1,0 +1,16 @@
+<b>Hidden mode</b>
+When you need to read a message and you are in a place where someone else might be looking at what you are doing in your web browser, you may want to use the hidden mode.
+
+In hidden mode the message content is hidden using black bars and you need to hover your mouse pointer over the bars to reveal the content.
+
+This feature is CSS based so you don't need to have JavaScript enabled.
+
+With a mobile device, you may need to select and copy the black bars to a text editor app instead. In some text editors, you may also need to change the text colour or text background colour.
+
+Please note that in order to use the hidden mode, the message must be unread, meaning that you can't switch from normal mode to hidden mode if you are already reading the message in normal mode.
+
+To use hidden mode, simply copy the normal message URL, change the last letter to H and open it in your browser.
+
+Example:
+https://temp.pm/?xxxxxx-x-xxxxxx<b>-N</b> = Normal mode
+https://temp.pm/?xxxxxx-x-xxxxxx<b>-H</b> = Hidden mode

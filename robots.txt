@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /load
+Disallow: /load?*
+Disallow: /load.php
+Disallow: /load.php?*
+
+Disallow: /*-N
+Disallow: /*-H
+Disallow: /*-HH
+Disallow: /*-K
+Disallow: /*-D
